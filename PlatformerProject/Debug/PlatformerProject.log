@@ -1,0 +1,10 @@
+﻿  Game.cpp
+  Input.cpp
+  Generating Code...
+C:\Users\radamesterhorst\Desktop\GAME\Código - CaveStory\PlatformerProject\PlatformerProject\Game.cpp(55,24): warning C4244:  'argument': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\radamesterhorst\Desktop\GAME\Código - CaveStory\PlatformerProject\PlatformerProject\Game.cpp(55,24): warning C4244:         with
+C:\Users\radamesterhorst\Desktop\GAME\Código - CaveStory\PlatformerProject\PlatformerProject\Game.cpp(55,24): warning C4244:         [
+C:\Users\radamesterhorst\Desktop\GAME\Código - CaveStory\PlatformerProject\PlatformerProject\Game.cpp(55,24): warning C4244:             _Ty=int
+C:\Users\radamesterhorst\Desktop\GAME\Código - CaveStory\PlatformerProject\PlatformerProject\Game.cpp(55,24): warning C4244:         ]
+  main.cpp
+  PlatformerProject.vcxproj -> C:\Users\radamesterhorst\Desktop\GAME\Código - CaveStory\PlatformerProject\Debug\PlatformerProject.exe
