@@ -2,12 +2,11 @@
 
 
 
-Construção de um game 2d em plataforma com elementos de RPG. Atualmente parado. Em breve volto com a conclusão e ajustes necessários.
+Construction of a 2D game on a platform with RPG elements. Currently stopped. Soon I will come back with the necessary conclusion and adjustments.
+->//////////////// under maintenance
+Currently done:
+- Screen configuration, standard resolution and buttons;
 
-->//////////////// em construção.
-Feito atualmente:
-- Configuração de tela, resolução padrão e botões;
-
-██▁▁▁▁▁▁▁▁ 20% Feito 
+██▁▁▁▁▁▁▁▁ 20% Done.
 
 :)
